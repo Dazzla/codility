@@ -4,4 +4,10 @@ Notebook made by Katherine Crowson (https://github.com/crowsonkb, https://twitte
 
 For a detailed tutorial on how to use it, I recommend visiting this article https://tuscriaturas.miraheze.org/wiki/Ayuda:Generar_im%C3%A1genes_con_VQGAN%2BCLIP * by Jakeukalane#2767 and Avengium (Angel)#3715
 
+* Translated from original Spanish by Darren Bown. source (Spanish): https://colab.research.google.com/drive/1iOM6DkhxUtI0E7GXn8cIEhKPHdfKmcay#scrollTo=VA1PHoJrRiK9
+
 *Google-translated to English: https://tuscriaturas-miraheze-org.translate.goog/wiki/Ayuda:Generar_im%C3%A1genes_con_VQGAN%2BCLIP?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp
+
+
+
+
