@@ -1,4 +1,4 @@
-Generate images from text sentences with VQGAN and CLIP (z+quantize method with augmentations).
+# Generate images from text sentences with VQGAN and CLIP (z+quantize method with augmentations).
 
 Notebook made by Katherine Crowson (https://github.com/crowsonkb, https://twitter.com/RiversHaveWings). The original BigGAN+CLIP method was made by https://twitter.com/advadnoun. Translated and added explanations, and modifications by Eleiber#8347, and the friendly interface was made thanks to Abulafia#3734.
 
